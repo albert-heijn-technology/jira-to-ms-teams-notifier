@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 # Send new created Jira ticket info to MS-Teams Channels:
 ---
 
